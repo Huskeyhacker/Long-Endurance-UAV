@@ -116,3 +116,7 @@ Next steps:
 This project is about learning by doing, not rushing to the finish.
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
