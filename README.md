@@ -111,9 +111,9 @@ If you’re interested in joining Blueprint, you can check it out using my refer
 
 👉 **https://blueprint.hackclub.com/r/8580?ref=r**
 
-I’ve also included a referral poster here:
+You can also join this by the poster below:
 
-📄 [Blueprint Referral Poster](ref/poster_2.pdf)
+![Blueprint Referral Poster](ref/poster_2-1.png)
 
 ---
 
